@@ -63,24 +63,7 @@ git clone https://github.com/Sandapraveen/Brainwave_Matrix_Intern.git
 # Step 3: Configure your database connection (JDBC URL, user, password)
 # Step 4: Run Main.java from the main package
 
-##Screenshots
-![Patient Registration](screenshots/patient_registration.png)
-![Billing](screenshots/billing.png)
-
-##👤 Author
-Sandapraveen
-Intern @ Brainwave Matrix
-🔗 GitHub Profile
-
-##📜 License
-This project is created for internship and educational purposes.
-Feel free to use, modify, or build upon it for learning and portfolio development.
-
-##🌟 Star This Repo!
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
 ---
-
 ### ✅ Next Steps for You:
 
 1. **Create a file named `README.md`** in your project folder.
